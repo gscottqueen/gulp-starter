@@ -1,7 +1,7 @@
 // Keep our CSS clean by only importing in this file.
 
 // Utilities
-@import "utilities/mixins";
+@import "utilities/*.scss";
 
 //Typography
 @import "typography/*.scss";
