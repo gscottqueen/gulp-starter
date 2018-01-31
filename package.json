@@ -15,9 +15,9 @@
     "gulp-cssmin": "^0.1.7",
     "gulp-imagemin": "^3.1.1",
     "gulp-insert": "^0.5.0",
-    "gulp-jshint": "^2.0.4",
+    "gulp-jshint": "^2.1.0",
     "gulp-notify": "^2.2.0",
-    "gulp-plumber": "^1.1.0",
+    "gulp-plumber": "^1.2.0",
     "gulp-postcss": "^6.2.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.3.2",
@@ -28,7 +28,7 @@
     "jshint-stylish": "^2.2.1"
   },
   "dependencies": {
-    "eslint": "^4.9.0",
+    "eslint": "^4.16.0",
     "jshint": "^2.9.5"
   }
 }
